@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736770450998",
+    "project_id": "nutri-86e24",
+    "storage_bucket": "nutri-86e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736770450998:android:73fca80b90baa9c720da97",
+        "android_client_info": {
+          "package_name": "com.grupodantas.nutri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736770450998-5kbav3m01ujr2g8q9ve056tfm115j2ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grupodantas.nutri",
+            "certificate_hash": "afc4b354476bf5ad8de87a9e73440e42ce7fb0ce"
+          }
+        },
+        {
+          "client_id": "736770450998-dvoscvj84ncmfv9u48ds5fbkai8n2c1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAW-LxUoEeQu4_DC1r4RjfwYVpmXsvEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736770450998-dvoscvj84ncmfv9u48ds5fbkai8n2c1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
